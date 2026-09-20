@@ -1,66 +1,191 @@
-📱 Croma-Inspired Smartphone Sales Dashboard | Power BI
+# 📱 Croma-Inspired Smartphone Sales Dashboard
 
-An interactive Smartphone Sales Analytics Dashboard built in Microsoft Power BI, inspired by a Croma-style retail environment. This project transforms raw smartphone sales data into actionable business insights using DAX, data modeling, and interactive visualizations.
+<p align="center">
+  <strong>Power BI • Data Analytics • Business Intelligence • Sales Visualization</strong>
+</p>
 
-📊 Project Overview
+---
 
-This dashboard provides a 360° view of smartphone sales performance — covering brand/model trends, city-wise performance, payment methods, customer ratings, and time-based sales patterns. It's designed to mimic how a real retail analytics team would monitor and act on sales data.
+## 📌 Project Overview
 
-🖼️ Dashboard Preview
+The **Croma-Inspired Smartphone Sales Dashboard** is an interactive **Microsoft Power BI** project developed to analyse smartphone sales performance across products, brands, customers, transactions, payment methods, cities, ratings, and time periods.
 
-Replace the placeholders below with your actual screenshots (drag images into the repo, e.g. /screenshots/overview.png)
+The dashboard converts sales data into an interactive business intelligence solution, allowing users to monitor key performance indicators, explore sales trends, compare products and brands, and analyse customer transaction behaviour.
 
-🔍 Key Features
+This project demonstrates practical skills in **Power BI, DAX, data visualization, KPI development, interactive reporting, and business analytics**.
 
-📱 Sales Analysis by Brand & Model — compare performance across smartphone brands and individual models
+---
 
-📍 Sales Performance by City — identify top and underperforming locations
+## 🎯 Business Objectives
 
-💳 Transactions by Payment Method — breakdown of cash, card, UPI, EMI, etc.
+The dashboard was designed to provide insights into:
 
-⭐ Customer Rating Analysis — correlate ratings with sales volume and revenue
+- Overall smartphone sales performance
+- Sales performance by brand
+- Sales performance by mobile model
+- Sales and quantity trends over time
+- Sales distribution across cities
+- Transactions by payment method
+- Customer rating distribution
+- Sales performance across different days
+- Key business KPIs through an interactive dashboard
 
-📅 Monthly & Daily Sales/Quantity Trends — spot seasonality and demand spikes
+---
 
-🎯 Dynamic KPIs — total sales, quantity sold, average rating, and more, powered by DAX
+## 📊 Dashboard Features
 
-🔎 Interactive Filters & Slicers — drill down by brand, city, date, or payment method
+### 🔹 KPI Performance
 
-🛠️ Tools & Technologies
+The dashboard provides a high-level view of:
 
-Microsoft Power BI
-DAX (Data Analysis Expressions)
-Data Modeling (Star Schema)
-Data Analysis & Visualization
+- **Total Sales**
+- **Total Quantity**
+- **Average Value**
+- **Total Transactions**
 
-📁 Project Files
+### 🔹 Interactive Filters
 
-File	Description
-Smartphone Sales Dashboard.pbix	Power BI dashboard file
-data/	Sample dataset used for the dashboard
-screenshots/Dashboard preview images
+Users can dynamically explore the dashboard using:
 
-📈 Key Learnings
+- **Month**
+- **Brand**
+- **Mobile Model**
+- **Payment Method**
+- **Day Name**
 
-This project strengthened my practical skills in:
+### 🔹 Sales & Product Analysis
 
-Power BI report design and UX
-DAX for KPI and trend calculations
-Data modeling and relationships
-Translating raw data into business-focused insights
+The dashboard enables analysis of:
 
-⚠️ Disclaimer
+- Brand-level performance
+- Mobile model performance
+- Sales trends
+- Quantity trends
+- City-level sales
+- Daily sales activity
 
-This is a practice project built using sample data for learning and demonstration purposes only. It is inspired by a Croma-style retail environment, but does not use actual Croma sales data and is not affiliated with or endorsed by Croma.
+### 🔹 Customer & Transaction Analysis
 
-🎯 Project Goal
+The dashboard provides analysis of:
 
-To build an interactive, business-focused sales dashboard while continuously improving Data Analytics and Business Intelligence skills.
+- Customer ratings
+- Payment methods
+- Transaction distribution
+- Product and customer-related patterns
 
-Learning → Building → Improving 📈
+---
 
-🔗 Connect With Me
+## 📈 Dashboard Visualizations
 
-LinkedIn: linkedin.com/in/abhishek-kumar-83998b27
+| Visualization | Purpose |
+|---|---|
+| **KPI Cards** | Monitor overall performance |
+| **Line Chart** | Analyse quantity trends |
+| **Bar Chart** | Compare mobile model performance |
+| **Pie Chart** | Analyse payment methods |
+| **Funnel Chart** | Analyse customer ratings |
+| **Area Chart** | Analyse sales by day |
+| **Map** | Analyse geographic sales distribution |
+| **Table** | View detailed brand-level information |
+| **Slicers** | Perform interactive filtering |
 
-Email: abhishekk2614@gmail.com
+---
+
+## 🛠️ Tools & Technologies
+
+### Microsoft Power BI
+- Interactive Dashboard Development
+- Data Visualization
+- KPI Development
+- Business Reporting
+- Interactive Filtering
+
+### DAX
+- Measures
+- Calculations
+- KPI Analysis
+- Business Metrics
+
+### Analytics
+- Sales Analysis
+- Product Analysis
+- Customer Analysis
+- Transaction Analysis
+- Trend Analysis
+- Geographic Analysis
+
+---
+
+## 🔎 Key Analysis Areas
+
+### 1. Sales Performance
+
+Analyse overall sales and transaction performance through KPI cards and detailed visualizations.
+
+### 2. Product Performance
+
+Compare smartphone brands and individual mobile models to understand product-level performance.
+
+### 3. Customer Behaviour
+
+Explore customer ratings and transaction patterns to understand customer-related trends.
+
+### 4. Payment Analysis
+
+Analyse transactions across different payment methods.
+
+### 5. Geographic Analysis
+
+Use the map visualization to explore smartphone sales across different cities.
+
+### 6. Time-Based Analysis
+
+Analyse sales and quantity patterns across different days and months.
+
+---
+
+## 💡 Business Value
+
+The dashboard provides a centralized view of smartphone sales information and enables users to explore business performance from multiple perspectives.
+
+It can support analysis related to:
+
+- Product performance
+- Brand performance
+- Customer behaviour
+- Payment preferences
+- Geographic sales distribution
+- Sales trends
+- Transaction activity
+
+The project demonstrates how raw business data can be transformed into an **interactive and decision-supporting analytics dashboard**.
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Power BI
+- DAX
+- Data Analysis
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
+- KPI Development
+- Sales Analytics
+- Customer Analytics
+- Product Analytics
+- Interactive Reporting
+- Data Storytelling
+
+---
+
+## 📂 Project Files
+
+```text
+Croma-Inspired-Smartphone-Sales-Dashboard-Power-BI/
+│
+├── Croma Mobiles Projects Dashboard.pbix
+├── README.md
+│
+└── screenshots/
+    └── dashboard.png
