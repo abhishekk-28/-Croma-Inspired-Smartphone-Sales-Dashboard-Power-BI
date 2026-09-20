@@ -178,6 +178,7 @@ The project demonstrates how raw business data can be transformed into an **inte
 - Data Storytelling
 
 ---
+📌 Disclaimer: This project uses a simulated dataset created solely for learning, portfolio, and demonstration purposes. The data, figures, insights, and analysis do not represent or reflect the actual data, operations, performance, or business activities of Croma or any other organization.
 
 ## 📂 Project Files
 
@@ -190,4 +191,4 @@ Croma-Inspired-Smartphone-Sales-Dashboard-Power-BI/
 └── screenshots/
     └── dashboard.png
 
-📌 Disclaimer: This project uses a simulated dataset created solely for learning, portfolio, and demonstration purposes. The data, figures, insights, and analysis do not represent or reflect the actual data, operations, performance, or business activities of Croma or any other organization.
+
