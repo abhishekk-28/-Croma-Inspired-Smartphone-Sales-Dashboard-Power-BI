@@ -189,3 +189,5 @@ Croma-Inspired-Smartphone-Sales-Dashboard-Power-BI/
 │
 └── screenshots/
     └── dashboard.png
+
+📌 Disclaimer: This project uses a simulated dataset created solely for learning, portfolio, and demonstration purposes. The data, figures, insights, and analysis do not represent or reflect the actual data, operations, performance, or business activities of Croma or any other organization.
